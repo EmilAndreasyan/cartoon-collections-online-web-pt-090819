@@ -33,6 +33,6 @@ def find_the_cheese(cheese)
   end
   end
 
-#find_the_cheese(snacks)
+find_the_cheese(snacks)
 find_the_cheese(soup)
 find_the_cheese(ingredients)
